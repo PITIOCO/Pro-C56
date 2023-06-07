@@ -2,8 +2,22 @@ body{
     text-align: center;
     background-color: navajowhite;
 }
+
 h1{
     color: lightskyblue;
+}
+.fact1{
+    color:antiquewhite;
+    border: 2px solid purple;
+    background-color: gray;
+    font-size: 20px;
+    border-radius: 20px;
+}
+img{
+    border-radius: 20px;
+    border: 3px solid black;
+    border-style: groove;
+    
 }
 p{
     color: rgb(53, 53, 53);
